@@ -1,0 +1,1 @@
+pandoc --citeproc --bibliography=paper.bib \paper.md -o paper.pdf 
